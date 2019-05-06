@@ -7,9 +7,9 @@
   ],
   "$id": "https://ns.adobe.com/experience/target/activity/activityevent/optionevent",
   "$schema": "http://json-schema.org/draft-06/schema#",
-  "title": "Activity Option Event",
+  "title": "Adobe Target Activity Option Event",
   "type": "object",
-  "description": "Represents the option and its that was displayed during the activity processing.",
+  "description": "Adobe Target activity option event, represents the option and what was displayed during the activity processing.",
   "definitions": {
     "optionevent": {
       "properties": {
